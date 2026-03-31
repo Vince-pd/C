@@ -88,9 +88,9 @@ public class ENROLL extends JFrame {
                         "First Name: " + FN +
                                 "\nMiddle Name: " + MN +
                                 "\nLast Name: " + LN +
-                                "\nMonth: " + M +
-                                "\nDay: " + D +
-                                "\nYear: " + YR +
+                                "\nBirth Date: " + M +
+                                " " + D +
+                                ", " + YR +
                                 "\nGender: " + G +
                                 "\nStreet Address: " + SA +
                                 "\nStreet Address Line 2: " + SAL +
